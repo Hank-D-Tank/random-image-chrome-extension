@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Random Image",
+    "version": "1.0",
+    "description": "View random images from Picsum",
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
